@@ -1,0 +1,50 @@
+2025-03-12 10:42:00,597 - INFO: Initializing with model: Facenet512
+2025-03-12 10:42:00,597 - INFO: Detector backend: opencv
+2025-03-12 10:42:00,597 - INFO: Distance metric: cosine
+2025-03-12 10:42:00,628 - INFO: Detector backend opencv built. Time taken: 0.0314946174621582 seconds
+2025-03-12 10:42:02,446 - INFO: Face Recognition Model Facenet512 built. Time taken: 1.817580223083496 seconds
+2025-03-12 10:42:55,901 - INFO: Initializing with model: Facenet512
+2025-03-12 10:42:55,901 - INFO: Detector backend: opencv
+2025-03-12 10:42:55,901 - INFO: Distance metric: cosine
+2025-03-12 10:42:55,922 - INFO: Detector backend opencv built. Time taken: 0.02063608169555664 seconds
+2025-03-12 10:42:57,546 - INFO: Face Recognition Model Facenet512 built. Time taken: 1.62404203414917 seconds
+2025-03-12 10:43:31,086 - INFO: Initializing with model: Facenet512
+2025-03-12 10:43:31,086 - INFO: Detector backend: opencv
+2025-03-12 10:43:31,086 - INFO: Distance metric: cosine
+2025-03-12 10:43:31,107 - INFO: Detector backend opencv built. Time taken: 0.020940303802490234 seconds
+2025-03-12 10:43:32,784 - INFO: Face Recognition Model Facenet512 built. Time taken: 1.6764330863952637 seconds
+2025-03-12 10:44:10,684 - INFO: Initializing with model: Facenet512
+2025-03-12 10:44:10,686 - INFO: Detector backend: opencv
+2025-03-12 10:44:10,686 - INFO: Distance metric: cosine
+2025-03-12 10:44:10,706 - INFO: Detector backend opencv built. Time taken: 0.02045583724975586 seconds
+2025-03-12 10:44:12,368 - INFO: Face Recognition Model Facenet512 built. Time taken: 1.661952257156372 seconds
+2025-03-12 10:46:33,287 - INFO: Initializing with model: Facenet512
+2025-03-12 10:46:33,287 - INFO: Detector backend: opencv
+2025-03-12 10:46:33,287 - INFO: Distance metric: cosine
+2025-03-12 10:46:33,310 - INFO: Detector backend opencv built. Time taken: 0.022484779357910156 seconds
+2025-03-12 10:46:35,607 - INFO: Face Recognition Model Facenet512 built. Time taken: 2.2975409030914307 seconds
+2025-03-12 10:48:00,176 - INFO: Initializing with model: Facenet512
+2025-03-12 10:48:00,176 - INFO: Detector backend: opencv
+2025-03-12 10:48:00,176 - INFO: Distance metric: cosine
+2025-03-12 10:48:00,203 - INFO: Detector backend opencv built. Time taken: 0.027363300323486328 seconds
+2025-03-12 10:48:01,971 - INFO: Face Recognition Model Facenet512 built. Time taken: 1.7673251628875732 seconds
+2025-03-12 10:49:51,361 - INFO: Initializing with model: Facenet512
+2025-03-12 10:49:51,362 - INFO: Detector backend: opencv
+2025-03-12 10:49:51,362 - INFO: Distance metric: cosine
+2025-03-12 10:49:51,392 - INFO: Detector backend opencv built. Time taken: 0.02918720245361328 seconds
+2025-03-12 10:49:54,998 - INFO: Face Recognition Model Facenet512 built. Time taken: 3.6059937477111816 seconds
+2025-03-12 11:39:51,931 - INFO: Initializing with model: Facenet512
+2025-03-12 11:39:51,931 - INFO: Detector backend: opencv
+2025-03-12 11:39:51,931 - INFO: Distance metric: cosine
+2025-03-12 11:39:51,959 - INFO: Detector backend opencv built. Time taken: 0.02792215347290039 seconds
+2025-03-12 11:39:53,705 - INFO: Face Recognition Model Facenet512 built. Time taken: 1.746169090270996 seconds
+2025-03-12 11:41:02,119 - INFO: Initializing with model: Facenet512
+2025-03-12 11:41:02,119 - INFO: Detector backend: opencv
+2025-03-12 11:41:02,119 - INFO: Distance metric: cosine
+2025-03-12 11:41:02,141 - INFO: Detector backend opencv built. Time taken: 0.021966934204101562 seconds
+2025-03-12 11:41:03,992 - INFO: Face Recognition Model Facenet512 built. Time taken: 1.8513283729553223 seconds
+2025-03-12 12:56:09,954 - INFO: Initializing with model: Facenet512
+2025-03-12 12:56:09,954 - INFO: Detector backend: opencv
+2025-03-12 12:56:09,954 - INFO: Distance metric: cosine
+2025-03-12 12:56:09,979 - INFO: Detector backend opencv built. Time taken: 0.024705886840820312 seconds
+2025-03-12 12:56:11,736 - INFO: Face Recognition Model Facenet512 built. Time taken: 1.7572441101074219 seconds

@@ -1,0 +1,12 @@
+2025-03-12 10:07:23,626 - INFO - Attempting to load weights from: C:\xampp\htdocs\imagerecog\Development\FaceRecognitionAttendanceSystem\src\weights\facenet512_weights.h5
+2025-03-12 10:07:23,626 - INFO - Weights file size: 133 bytes
+2025-03-12 10:07:23,626 - WARNING - Weights file seems unusually small. Potential corruption.
+2025-03-12 10:07:25,707 - CRITICAL - CRITICAL ERROR: Failed to load Facenet512 model weights
+2025-03-12 10:07:25,707 - CRITICAL - Error details: Unable to synchronously open file (file signature not found)
+2025-03-12 10:07:25,707 - CRITICAL - Traceback: (<class 'OSError'>, OSError('Unable to synchronously open file (file signature not found)'), <traceback object at 0x0000028017A18480>)
+2025-03-12 10:08:38,133 - INFO - Attempting to load weights from: C:\xampp\htdocs\imagerecog\Development\FaceRecognitionAttendanceSystem\src\weights\facenet512_weights.h5
+2025-03-12 10:08:38,133 - INFO - Weights file size: 133 bytes
+2025-03-12 10:08:38,133 - WARNING - Weights file seems unusually small. Potential corruption.
+2025-03-12 10:08:39,809 - CRITICAL - CRITICAL ERROR: Failed to load Facenet512 model weights
+2025-03-12 10:08:39,809 - CRITICAL - Error details: Unable to synchronously open file (file signature not found)
+2025-03-12 10:08:39,809 - CRITICAL - Traceback: (<class 'OSError'>, OSError('Unable to synchronously open file (file signature not found)'), <traceback object at 0x0000023D9C432680>)
