@@ -1,0 +1,15 @@
+2025-04-15 11:54:45,565 - INFO: Database connection established successfully.
+2025-04-15 11:54:54,411 - INFO: Initializing with model: Facenet512
+2025-04-15 11:54:54,411 - INFO: Detector backend: opencv
+2025-04-15 11:54:54,411 - INFO: Distance metric: cosine
+2025-04-15 11:54:54,428 - INFO: Detector backend opencv built. Time taken: 0.017156362533569336 seconds
+2025-04-15 11:54:57,655 - INFO: Face Recognition Model Facenet512 built. Time taken: 3.227552652359009 seconds
+Unknown property text-shadow
+Unknown property text-shadow
+Unknown property text-shadow
+Unknown property text-shadow
+Unknown property text-shadow
+Unknown property text-shadow
+Unknown property text-shadow
+Unknown property text-shadow
+Server IP: 127.0.0.1 -> Connected Successfully
